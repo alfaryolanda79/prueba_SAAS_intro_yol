@@ -8,6 +8,18 @@ main #section-two {
   color: green;
 }
 
+p {
+  color: brown;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.h3-section-four {
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+}
+
 body {
   background-color: burlywood;
 }
@@ -18,6 +30,7 @@ body header {
 body header h1 {
   font-style: italic;
   text-align: center;
+  text-decoration: underline;
 }
 
 /*# sourceMappingURL=styles.css.map */
